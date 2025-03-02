@@ -1,0 +1,31 @@
+@import 'tailwindcss';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply p-0 m-0 box-border text-base;
+  }
+  html {
+    @apply bg-stone-50;
+  }
+  body {
+    @apply relative;
+  }
+  section a {
+    @apply text-blue-700 hover:text-blue-500;
+  }
+  section h2 {
+    @apply text-red-600 text-xl font-semibold mt-6;
+  }
+  .size {
+    @apply w-[50%] md:w-[50%] mx-auto;
+  }
+  .shadows {
+    box-shadow: 4px 8px 3px 0.3px rgb(12, 12, 12, 0.4);
+  }
+  button {
+    @apply transition duration-300 ease-in-out;
+  }
+}
