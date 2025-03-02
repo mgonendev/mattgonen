@@ -5,7 +5,7 @@ export default function SocialLinks() {
     <section className='flex flex-row w-full max-w-screen-xl mx-auto rounded-lg shadow-xl shadow-gray-600 bg-stone-200 text-gray-800 border-black'>
       <img
         alt='img'
-        src='/mattgonen_800x800.jpeg'
+        src='mattgonen_800x800.jpeg'
         className='object-cover object-center max-w-[240px] h-52 dark:bg-gray-500 rounded-l-lg '
       />
       <div className='flex flex-col justify-between px-1 sm:px-6 py-4 gap-y-2'>
