@@ -3,15 +3,12 @@ import React from 'react'
 export default function Skills() {
   return (
     <>
-      <strong>Languages</strong>: Java, Python, C#, C++, C, Powershell, Bash,
-      JavaScript, React, HTML, CSS
-      <br />
-      <strong>Back End:</strong> MySQL, SQL, RDBMS, MongoDB, NodeJS, Express,
-      REST API, JSON, Tomcat, Postman,
-      <br />
-      <strong>Cloud:</strong> Azure Devops; Classic pipelines, yaml pipelines,
-      Azure Active Directory; Key Vaults, Azure repos, Azure Function Apps;
-      Docker, AWS, Google GCP, Kubernetes, Terraform
+      Sales Cloud * Marketing Cloud * Service Cloud * SAP CRM * SAP ERP Apex *
+      Java * C# * SOQL * SOSL * SQL Server * LWC * Aura * Visualforce * React *
+      Node.js * HTML5/CSS3 * VS Code * Eclipse JavaScript * JSON * API
+      Integration ( REST / SOAP ) * Apex Web Services * XML * AMPscript * Server
+      Side JavaScript (SSJS) SDLC * Agile Methodology * DevOps * Git * Scrum *
+      Jira * Bitbucket * Copado * MVC * OOP
     </>
   )
 }

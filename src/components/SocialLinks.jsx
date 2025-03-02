@@ -13,8 +13,12 @@ export default function SocialLinks() {
         <p>
           Web : <a href='https://mattgonen.com'>https://mattgonen.com</a>
         </p>
-        <a href='#' target='_blank' rel='noopener noreferrer'>
-          Resume-PDF
+        <a
+          href='https://www.salesforce.com/trailblazer/mgonendev'
+          target='_blank'
+          rel='noopener noreferrer'
+        >
+          Salesforce profile
         </a>
         <a
           href='https://github.com/mgonendev'
