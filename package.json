@@ -1,8 +1,7 @@
 {
   "name": "mattgonen",
-  "private": true,
-  "version": "0.0.0",
   "homepage": "https://mgonendev.github.io/mattgonen/",
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
