@@ -13,7 +13,7 @@ export default function Certificates() {
     <>
       <ul className='list-disc list-inside'>
         {items.map((item, index) => (
-          <li key={index} className='text-sm'>
+          <li key={index} className='text-base'>
             {item}
           </li>
         ))}

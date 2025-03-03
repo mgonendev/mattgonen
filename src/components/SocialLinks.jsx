@@ -8,8 +8,8 @@ export default function SocialLinks() {
         src='mattgonen_800x800.jpeg'
         className='object-cover object-center max-w-[240px] h-52 dark:bg-gray-500 rounded-l-lg '
       />
-      <div className='flex flex-col justify-between px-1 sm:px-6 py-4 gap-y-2'>
-        <p className='text-3xl font-semibold '>Matt Gonen</p>
+      <div className='flex flex-col justify-between px-1 sm:px-6 py-1 gap-y-2'>
+        <p className='text-2xl md:text-3xl font-semibold '>Matt Gonen</p>
         <p>
           Web : <a href='https://mattgonen.com'>https://mattgonen.com</a>
         </p>
