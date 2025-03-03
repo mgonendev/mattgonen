@@ -3,6 +3,8 @@ import SocialLinks from '../components/SocialLinks'
 import Skills from '../components/Skills'
 import Section from '../components/Section'
 import Experience from '../components/Experience'
+import Education from '../components/Education'
+import Certificates from '../components/Certificates'
 
 export const Home = () => {
   return (
@@ -13,6 +15,12 @@ export const Home = () => {
       </Section>
       <Section title='Experience'>
         <Experience />
+      </Section>
+      <Section title='Education'>
+        <Education />
+      </Section>
+      <Section title='Certificates'>
+        <Certificates />
       </Section>
     </main>
   )
