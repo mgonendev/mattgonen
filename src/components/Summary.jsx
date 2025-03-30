@@ -8,7 +8,7 @@ export default function Summary() {
       JavaScript Developer and Marketing Cloud Developer. With 3+ years of
       experience in Salesforce development and 2 years each in JavaScript and
       SAP CRM/ERP development, I bring a diverse skill set to streamline
-      processes and deliver impactful solutions.
+      processes and deliver impactful solutions..
     </>
   )
 }
