@@ -13,19 +13,19 @@ export default function SocialLinks() {
         <p>
           Web : <a href='https://mattgonen.com'>https://mattgonen.com</a>
         </p>
-        <a
+        {/* <a
           href='https://www.salesforce.com/trailblazer/mgonendev'
           target='_blank'
           rel='noopener noreferrer'
         >
           Salesforce profile
-        </a>
+        </a> */}
         <a
           href='https://github.com/mgonendev'
           target='_blank'
           rel='noopener noreferrer'
         >
-          github
+          GitHub
         </a>
         <a
           href='https://www.linkedin.com/in/mgonendev/'
