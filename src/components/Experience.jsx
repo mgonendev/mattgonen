@@ -3,47 +3,45 @@ import React from 'react'
 export default function Experience() {
   const items = [
     {
-      title: 'Front-End Developer',
+      title: 'Salesforce Developer',
       company: 'NTT DATA',
-      city: 'Philadelphia, PA',
-      date: 'Jan 2024 – Current',
+      city: 'Marlton, NJ',
+      date: 'Jun 2023 – May 2025',
       points: [
-        'Built interactive features with modern JavaScript (ES6+), enhancing application interactivity and reducing load times.',
-        'Developed dynamic user interfaces using React and TypeScript, improving user engagement by 30%.',
-        'Implemented responsive designs with Tailwind CSS, Bootstrap, and CSS3, ensuring mobile-first performance across all platforms.',
-        'Managed application state using Redux, streamlining data flow and simplifying component logic across large-scale projects.',
-        'Integrated third-party and internal APIs using JSON to display real-time data, improving user experience with up-to-date content.',
-        'Configured and maintained Git source control using GitHub, facilitating team-based development and code reviews.',
-        'Debugged and resolved front-end issues across browsers and devices, ensuring consistent UI/UX performance.',
-        'Collaborated with cross-functional teams in Agile/Scrum environments, leveraging Jira for task tracking and sprint planning.',
+        'Developed various Apex classes and Apex Triggers on Sales Cloud and Service Cloud for various functional needs',
+        'Integrated external systems with SFMC using REST/SOAP API, leveraging Marketing Cloud Connect for synchronization.',
+        'Developed various Asynchronous Apex Classes such as Batchable Apex, Schedulable Apex for required jobs ',
+        'Created custom LWC and Aura components using HTML/CSS and JavaScript for user interface and functionality.',
+        'Implemented personalized email campaigns on Salesforce Marketing Cloud (SFMC) using AMPscript and Server Side JavaScript (SSJS) to enhance customer engagement and drive conversion rates.',
+        'Utilized Data Extensions and SQL Query Activities for data manipulation and segmentation, enhancing personalization and segmentation strategies.',
+        'Integrated Einstein AI into Marketing Cloud Engagement to optimize interactions, 15% increase on campaign effectiveness.'
       ]
     },
     {
-      title: 'Front-End Developer',
+      title: 'Salesforce Developer',
       company: 'Zulily',
       city: 'Arlington, VA',
       date: 'Feb 2022 - Nov 2023',
       points: [
-        'Engineered scalable front-end applications using React and Redux, streamlining component architecture and improving data consistency.',
-        'Utilized JavaScript and TypeScript to build modular, high-performance features, reducing code redundancy across projects.',
-        'Styled modern UIs with Tailwind CSS, Bootstrap, HTML5/CSS3, enhancing cross-browser compatibility and visual consistency.',
-        'Consumed RESTful API with Salesforce and parsed JSON responses to render dynamic data and improve app responsiveness.',
-        'Optimized legacy codebases by migrating to modular React components, increasing maintainability and scalability.',
-        'Contributed to Agile sprints and ceremonies in Scrum environments, ensuring efficient delivery cycles through Jira tracking.',
-        'Maintained version control and collaborative workflows using Git, reducing deployment errors by 20%.',
-      ],
-    },
-    {
-      title: 'Salesforce Developer',
-      company: 'Lumen Technologies',
-      city: 'Cinninati, OH',
-      date: 'Sep 2019 – Dec 2021',
-      points: [
         'Embed Tableau reports into Salesforce CRM solutions to enhance data visualization and analytics capabilities.',
+        'Successfully addressed complex business requirements by developing Apex Web services, Apex Classes, Triggers, Controllers, and Test Classes collaborating directly with cross-functional Agile teams, using Scrum methodology and SDLC .',
         'Developed Asynchronous Batch Apex such as Queueable Apex, Schedulable Apex for working on massive data records.',
         'Customization on webpages and Visualforce pages by using JavaScript, LWC and Aura components for enhancing user interface and functionality.',
         'Developed Salesforce customization initiatives, leveraging JSON and XML for data manipulation and API integration, resulting in streamlined business processes and enhanced data accuracy.',
         'Engineered REST API integrations to connect Salesforce with Tableau, enabling real-time data synchronization and empowering stakeholders with comprehensive insights.',
+        '',
+      ],
+    },
+    {
+      title: 'SAP Developer',
+      company: 'Itelligence',
+      city: 'Istanbul, Turkiye',
+      date: 'Nov 2017 – Apr 2020',
+      points: [
+        'Integrated REST APIs into Node.js backend services, facilitating seamless communication between client-side applications and server-side systems, ensuring efficient data exchange and enhancing application functionality.',
+        'Applied MVC architecture principles in JavaScript development projects, to ensure code maintainability, scalability, and separation of concerns, resulting in streamlined development processes by 20% improvement and high code quality.',
+        'Developed user-friendly SAP Fiori and UI5 pages using JavaScript, HTML5/CSS3, and React to enhance user experience.',
+        'Utilized ABAP RESTful Programming to extend SAP capabilities, enabling custom business logic implementation and integration with external systems, thus optimizing business processes.'
       ],
     },
   ]
